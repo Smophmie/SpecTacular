@@ -1,4 +1,8 @@
+import {RouterTestingHarness} from "@angular/router/testing";
+
 describe('ParamHaterComponent', () => {
-  //Use RouterTestingHarness
+  beforeEach(async () => {
+   
+  });
   it('should display advice id', () => { });
 });
